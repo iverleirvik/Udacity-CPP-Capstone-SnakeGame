@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/workspace/CppND-Capstone-Snake-Game/src/messagequeue.cpp
+messagequeue.h
+/home/workspace/CppND-Capstone-Snake-Game/src/messagequeue.h
+
+/home/workspace/CppND-Capstone-Snake-Game/src/messagequeue.h
+iostream
+-
+thread
+-
+queue
+-
+future
+-
+mutex
+-
+algorithm
+-
+

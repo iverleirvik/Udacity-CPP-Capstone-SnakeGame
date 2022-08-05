@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/workspace/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/c++   -I/usr/include/SDL2 -I/home/workspace/CppND-Capstone-Snake-Game/src  -std=c++17 -pthread -g   -std=c++17 -std=gnu++1z -o CMakeFiles/SnakeGame.dir/src/main.cpp.o -c /home/workspace/CppND-Capstone-Snake-Game/src/main.cpp",
+  "file": "/home/workspace/CppND-Capstone-Snake-Game/src/main.cpp"
+},
+{
+  "directory": "/home/workspace/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/c++   -I/usr/include/SDL2 -I/home/workspace/CppND-Capstone-Snake-Game/src  -std=c++17 -pthread -g   -std=c++17 -std=gnu++1z -o CMakeFiles/SnakeGame.dir/src/game.cpp.o -c /home/workspace/CppND-Capstone-Snake-Game/src/game.cpp",
+  "file": "/home/workspace/CppND-Capstone-Snake-Game/src/game.cpp"
+},
+{
+  "directory": "/home/workspace/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/c++   -I/usr/include/SDL2 -I/home/workspace/CppND-Capstone-Snake-Game/src  -std=c++17 -pthread -g   -std=c++17 -std=gnu++1z -o CMakeFiles/SnakeGame.dir/src/controller.cpp.o -c /home/workspace/CppND-Capstone-Snake-Game/src/controller.cpp",
+  "file": "/home/workspace/CppND-Capstone-Snake-Game/src/controller.cpp"
+},
+{
+  "directory": "/home/workspace/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/c++   -I/usr/include/SDL2 -I/home/workspace/CppND-Capstone-Snake-Game/src  -std=c++17 -pthread -g   -std=c++17 -std=gnu++1z -o CMakeFiles/SnakeGame.dir/src/messagequeue.cpp.o -c /home/workspace/CppND-Capstone-Snake-Game/src/messagequeue.cpp",
+  "file": "/home/workspace/CppND-Capstone-Snake-Game/src/messagequeue.cpp"
+},
+{
+  "directory": "/home/workspace/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/c++   -I/usr/include/SDL2 -I/home/workspace/CppND-Capstone-Snake-Game/src  -std=c++17 -pthread -g   -std=c++17 -std=gnu++1z -o CMakeFiles/SnakeGame.dir/src/renderer.cpp.o -c /home/workspace/CppND-Capstone-Snake-Game/src/renderer.cpp",
+  "file": "/home/workspace/CppND-Capstone-Snake-Game/src/renderer.cpp"
+},
+{
+  "directory": "/home/workspace/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/c++   -I/usr/include/SDL2 -I/home/workspace/CppND-Capstone-Snake-Game/src  -std=c++17 -pthread -g   -std=c++17 -std=gnu++1z -o CMakeFiles/SnakeGame.dir/src/running.cpp.o -c /home/workspace/CppND-Capstone-Snake-Game/src/running.cpp",
+  "file": "/home/workspace/CppND-Capstone-Snake-Game/src/running.cpp"
+},
+{
+  "directory": "/home/workspace/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/c++   -I/usr/include/SDL2 -I/home/workspace/CppND-Capstone-Snake-Game/src  -std=c++17 -pthread -g   -std=c++17 -std=gnu++1z -o CMakeFiles/SnakeGame.dir/src/snake.cpp.o -c /home/workspace/CppND-Capstone-Snake-Game/src/snake.cpp",
+  "file": "/home/workspace/CppND-Capstone-Snake-Game/src/snake.cpp"
+},
+{
+  "directory": "/home/workspace/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/c++   -I/usr/include/SDL2 -I/home/workspace/CppND-Capstone-Snake-Game/src  -std=c++17 -pthread -g   -std=c++17 -std=gnu++1z -o CMakeFiles/SnakeGame.dir/src/snakelist.cpp.o -c /home/workspace/CppND-Capstone-Snake-Game/src/snakelist.cpp",
+  "file": "/home/workspace/CppND-Capstone-Snake-Game/src/snakelist.cpp"
+}
+]
